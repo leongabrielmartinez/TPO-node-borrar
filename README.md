@@ -1,4 +1,5 @@
-##Uso generico, ejemplo de post:
+# Uso generico, ejemplo de post:
+
 {
   "title": "The Legend of Zelda: Breath of the Wild",
   "year": 2017,
